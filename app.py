@@ -114,7 +114,7 @@ st.markdown("""
 KR_ASPECTS = ['보습력', '발림성', '자극', '자외선차단', '백탁', '유지력', '가성비', '끈적임']
 GB_ASPECTS = ['spreadability', 'white_cast', 'hydration',
               'irritation', 'scent', 'price',
-              'sun_protection', 'eye_irritation']
+              'sun_protection', 'lightweight']
 
 GB_LABELS = {
     'spreadability' : 'spreadability',
@@ -124,7 +124,7 @@ GB_LABELS = {
     'scent'         : 'scent',
     'price'         : 'price',
     'sun_protection': 'sun protection',
-    'eye_irritation': 'eye irritation'
+    'lightweight': 'lightweight'
 }
 
 # ── 데이터 로드 ───────────────────────────────────────
